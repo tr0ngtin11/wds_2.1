@@ -17,7 +17,7 @@
       rel="stylesheet"
     />
 
-    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="./assets/css/style.css"
   </head>
   <body>
     <div class="player">
@@ -76,6 +76,6 @@
       <div class="playlist"></div>
     </div>
 
-    <script src="./main.js"></script>
+    <script src="./assets/music/main.js"></script>
   </body>
 </html>
